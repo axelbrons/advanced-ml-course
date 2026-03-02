@@ -1,5 +1,5 @@
 # Advanced Machine Learning
-Repository corresponding to the lab and lectures of Advanced Machine Learning by professor ![Jae Yun JUN KIM](https://www.omneseducation.com/teacher/jun-kim-jae-yun/).
+Repository corresponding to the lab and lectures of Advanced Machine Learning by professor [Jae Yun JUN KIM](https://www.omneseducation.com/teacher/jun-kim-jae-yun/).
 
 ### Lab 1
 Feed Forward Neural Network from scratch using NumPy.
