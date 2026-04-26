@@ -6,3 +6,9 @@ Feed Forward Neural Network from scratch using NumPy.
 
 ### Lab 2
 Reinforcement Learning, implementing Q-Learning algorithm for discrete and continuous actions / states. (Using Gymnasium and maths).
+
+### Lab 3
+Implementing the GMM (Guaussian Mixture Model) from scratch.
+
+### Lab 4
+K-Means and PCA (Principal Component Analysis) from scratch
